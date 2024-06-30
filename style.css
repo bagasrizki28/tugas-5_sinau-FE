@@ -8,7 +8,7 @@
 }
 .header{
     background-color: #304463;
-    background-image: url("../images/hashtag-icon-2048x2048-sz072ywi.png");
+    background-image: url("./Assets/images/hashtag-icon-2048x2048-sz072ywi.png");
     background-size: 50%;
     background-position: 140% 55%;
     background-repeat:no-repeat;
@@ -96,7 +96,7 @@
 .category-section{
     padding-top: 35px;
     background-color: rgb(255, 208, 0);
-    background-image: url(../images/lu_bu-removebg-preview.png);
+    background-image: url("./Assets/images/lu_bu-removebg-preview.png");
     background-repeat: no-repeat;
     background-position: 130% 10%;
     padding-bottom: 60px;
@@ -151,7 +151,7 @@
     padding-top: 35px;
     padding-bottom: 35px;
     background-color: #304463;
-    background-image: url(../images/lu_bu-removebg-preview.png);
+    background-image: url("./Assets/images/lu_bu-removebg-preview.png");
     background-repeat: no-repeat;
     background-position: 130% 0%;
 }
